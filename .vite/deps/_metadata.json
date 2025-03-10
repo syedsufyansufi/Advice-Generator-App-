@@ -1,43 +1,52 @@
 {
-  "hash": "d6c46eb3",
+  "hash": "2238e784",
   "configHash": "fad9a82c",
-  "lockfileHash": "b16d65b5",
-  "browserHash": "fb50ee1e",
+  "lockfileHash": "b9ec6a85",
+  "browserHash": "ae799b39",
   "optimized": {
     "@mui/material": {
       "src": "../../node_modules/@mui/material/index.js",
       "file": "@mui_material.js",
-      "fileHash": "51392404",
+      "fileHash": "f91e460f",
       "needsInterop": false
     },
     "axios": {
       "src": "../../node_modules/axios/index.js",
       "file": "axios.js",
-      "fileHash": "9fbf397d",
+      "fileHash": "a0923746",
       "needsInterop": false
     },
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "a7db97f3",
+      "fileHash": "b477bc4d",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "ec9dd0a2",
+      "fileHash": "5bc2f429",
       "needsInterop": true
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "745405d0",
+      "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-TKHB4QMX": {
-      "file": "chunk-TKHB4QMX.js"
+    "chunk-Z7B2QQBT": {
+      "file": "chunk-Z7B2QQBT.js"
     },
-    "chunk-YLDSBLSF": {
-      "file": "chunk-YLDSBLSF.js"
+    "chunk-CJK34UIW": {
+      "file": "chunk-CJK34UIW.js"
     },
-    "chunk-DC5AMYBS": {
-      "file": "chunk-DC5AMYBS.js"
+    "chunk-W24JOBID": {
+      "file": "chunk-W24JOBID.js"
+    },
+    "chunk-EWTE5DHJ": {
+      "file": "chunk-EWTE5DHJ.js"
     }
   }
 }
