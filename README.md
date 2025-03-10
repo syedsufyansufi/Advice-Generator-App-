@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Advice-Generator-App-
+# Advice-Generator-App - https://reactrandomadvicegenerator.netlify.app/
 A simple advice generator app using react mui axios 
 =======
 # React + Vite
